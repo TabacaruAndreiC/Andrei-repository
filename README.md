@@ -11,8 +11,6 @@ Before you begin, ensure you have installed the following:
     Visual Studio
     QT
     SQL Database
-    XAMPP 
-    php my admin
 
 # Installing
 
